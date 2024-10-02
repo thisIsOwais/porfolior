@@ -146,7 +146,7 @@ const educationInfo = {
     {
       schoolName: "NATIONAL INSTITUTE OF TECHNOLOGY, WARANGAL",
       logo: require("./assets/images/NITWLOGO.png"),
-      subHeader: "B.Tech in Computer Science and Engineering",
+      subHeader: "B.Tech in Matellurgical And Materials Engineering",
       duration: "DECEMBER 2021 - JUNE 2025",
       desc: "Participated in the hackathon like trinit-hackathon and others college tech projects.",
       descBullets: [
@@ -157,7 +157,7 @@ const educationInfo = {
       schoolName: "SHRI GURU RAM RAI EDUCATION MISSION",
       logo: require("./assets/images/school.jpeg"),
       subHeader: "Intermediate",
-      duration: "April 2019 - June 2020",
+      duration: "April 2020 - June 2021",
       desc: "I have attended Shri Guru Ram Rai Public School, where you excelled academically, achieving an outstanding 97% in your CBSE exams in 2020. This remarkable performance earned you the distinction of being the district topper, highlighting your dedication and commitment to your studies during your school years."
     }
   ]
